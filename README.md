@@ -36,16 +36,23 @@
 
   - CNG (Cloud-Native Geospatial) Conference 2025, https://conference.cloudnativegeo.org/CNGConference2025, Snowbird, 30 April—2 May 2025
   - MDM 2025 (26th IEEE International Conference on Mobile Data Management), https://mdm2025.github.io/, Irvine, 2-5 June 2025
+  - GeoEd'25, https://arcg.is/0TLLeW, Gettysburg, Pennsylvania, 17-18 June 2025
   - SotMUS 2025 (15th State of the Map US), https://openstreetmap.us/events/state-of-the-map-us/2025/, Boston, 19–21 June 2025
+  - Esri User Conference (Esri UC), https://www.esri.com/uc, San Diego, California, 14-18 July 2025
+  - TUgis: Maryland Geospatial Conference, https://tugisconference.com/, Towson, Maryland, 6-7 August 2025
+  - Arizona GIC Education & Training Symposium, https://www.eventsquid.com/event.cfm?event_id=26958, Prescott, Arizona, 26-29 August 2025
   - Web and Wireless Geographical Information Systems (W2GIS), https://sites.google.com/view/w2gis-2025, Mexico City, 8-9 September 2025
+  - National States Geographic Information Council (NSGIC) Annual, https://nsgic.org/events/2025-nsgic-annual-conference-nashville-tn/, Nashville, TN, 14-19 September 2025
+  - GIS-Pro in the Rockies 2025, https://thegpn.org/page/GIS-Pro, Denver, Colorado, 6-9 October 2025
   - FOSS4G NA 2025, https://www.foss4gna.org, Reston, 3-5 November 2025
   - SIGSPATIAL 2025 (33rd International Conference on Advances in Geographic Information Systems), https://sigspatial2025.sigspatial.org/, Minneapolis, 3-6 November 2025
+  - American Geophysical Union (AGU25), https://www.agu.org/annual-meeting, New Orleans, Louisiana, 15-19 December 2025
  
 ### Oceania
 
   - 2025 IEEE International Geoscience and Remote Sensing Symposium, https://2025.ieeeigarss.org/, Brisbane, 3—8 August 2025
   - GIScience 2025, https://giscience2025.org/, Ōtautahi Christchurch, 26—29 August 2025
-  - FOSS4G 2025, https://2025.foss4g.org/, Tāmaki Makaurau Auckland, 17--23 November 2025
+  - FOSS4G 2025, https://2025.foss4g.org/, Tāmaki Makaurau Auckland, 17-23 November 2025
   - 2025 Pacific Islands GIS & Remote Sensing Users Conference, https://pgrsc.org/pacific-gis-rs-users-conference/, Suva, Fiji, November 24-28, 2025
 
 ## Local
